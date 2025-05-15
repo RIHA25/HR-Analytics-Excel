@@ -49,6 +49,7 @@ It includes pivot tables, charts, and insights into employee attrition, income l
 
 3. Explore the dashboard and interact with filters.
 
+![alt text](imagefilename.jpg)
 
 
 ##  Contact
